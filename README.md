@@ -1,4 +1,4 @@
-# SimpleLang Compiler
+sudo su # SimpleLang Compiler
 
 ## Introduction
 
